@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="MyLinearLayout">
+        <attr name="titletext" format="string"></attr>
+        <attr name="titletextSize" format="dimension"></attr>
+        <attr name="titletextColor" format="color"></attr>
+        <attr name="titlebackground" format="color"></attr>
+        <attr name="lefttext" format="string"></attr>
+        <attr name="lefttextSize" format="dimension"></attr>
+        <attr name="lefttextColor" format="color"></attr>
+        <attr name="leftbackground" format="reference"></attr>
+        <attr name="righttext" format="string"></attr>
+        <attr name="righttextSize" format="dimension"></attr>
+        <attr name="righttextColor" format="color"></attr>
+        <attr name="rightbackground" format="reference"></attr>
+    </declare-styleable>
+
+</resources>
